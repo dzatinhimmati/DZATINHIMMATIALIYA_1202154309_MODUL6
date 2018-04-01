@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "909552764627",
+    "firebase_url": "https://dzatinh.firebaseio.com",
+    "project_id": "dzatinh",
+    "storage_bucket": "dzatinh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909552764627:android:83873834a7cc56dd",
+        "android_client_info": {
+          "package_name": "com.example.coba.dzatinhimmatialiya_1202154309_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909552764627-ingolc2govki9vnt3unhr6l48191tofp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.coba.dzatinhimmatialiya_1202154309_modul6",
+            "certificate_hash": "92dd4a0d8ec292b9899d5b6bec6abf21d967bea4"
+          }
+        },
+        {
+          "client_id": "909552764627-vuvejasbddfp7k74tkgka58jo4s94njs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6N0E3YsWnKRjJwcfZ7fS19QDSDTLvq4M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909552764627-vuvejasbddfp7k74tkgka58jo4s94njs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
